@@ -36,6 +36,10 @@ export const quickLinks: Menu = {
 			to: contactLink,
 		},
 		{
+		title: 'Join Newsletter',
+		to: 'https://cincyblac.us4.list-manage.com/subscribe?u=25b60bf7591a2072eed249df0&id=ba5aa3e5df',
+		},
+		{
 			title: 'Become a Member',
 			to: `${href('/')}#memberships`,
 		},
